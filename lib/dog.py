@@ -8,3 +8,4 @@ class Dog:
     #Instance method definition
     def sit(self):
         print("The dog is sitting.")
+   
